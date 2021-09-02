@@ -1,4 +1,5 @@
 # facesample
+https://blog.csdn.net/cuiran/article/details/85276384
 
 本项目主要基于vlc来播放流媒体视频
 可以入QQ群参与讨论:735436509
